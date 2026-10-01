@@ -6,7 +6,7 @@
 <tr>
 <td valign="top" width="60%">
 
-<img src="https://komarev.com/ghpvc/?username=Prachi-Sarnobat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="blob:https://web.whatsapp.com/c9227b25-5dd6-483c-9ce3-dcbeb94cc08f" alt="Profile Views" />
 
 ### 👩‍💻 About Me
 
