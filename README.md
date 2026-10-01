@@ -2,7 +2,7 @@
 
 <h3 align="center">Full Stack Developer • Django • React • REST APIs</h3>
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="60%">
 
@@ -21,7 +21,7 @@
 </td>
 <td valign="middle" align="center" width="40%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding illustration" width="100%" />
+<img src="./assets/developer.svg" alt="Developer working on a laptop" width="100%" />
 
 </td>
 </tr>
@@ -33,7 +33,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,django,postgres,sqlite,mysql,git,github,vscode,postman&perline=15" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,django,postgres,sqlite,mysql,git,github,vscode,postman&perline=10" alt="Tech stack" width="600" />
   </a>
 </p>
 
@@ -76,9 +76,9 @@ An AI-powered interview practice application that evaluates interview answers an
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prachi-Sarnobat&show_icons=true&hide_border=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Prachi-Sarnobat&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi-Sarnobat&layout=compact&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi-Sarnobat&layout=compact&hide_border=true" alt="Top languages" width="48%" />
 
 </div>
 
@@ -86,7 +86,7 @@ An AI-powered interview practice application that evaluates interview answers an
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Prachi-Sarnobat&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Prachi-Sarnobat&hide_border=true" alt="GitHub streak" width="500" />
 
 </div>
 
