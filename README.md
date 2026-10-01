@@ -1,40 +1,34 @@
 <h1 align="center">Hi 👋, I'm Prachi Sarnobat</h1>
 
-<h3 align="center">Full Stack Developer • Django • React • REST APIs</h3>
+<h3 align="center">
+Full Stack Developer • Django • React • REST APIs
+</h3>
 
-<table width="100%">
-<tr>
-<td valign="top" width="60%">
+<img align="right" alt="Coding" width="400"
+src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-<img src="blob:https://web.whatsapp.com/c9227b25-5dd6-483c-9ce3-dcbeb94cc08f" alt="Profile Views" />
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Prachi-Sarnobat&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 ### 👩‍💻 About Me
 
 - 🚀 Full Stack Developer passionate about building practical web applications and REST APIs
-- ⚛️ Focused on **Python, Django, Django REST Framework and React**
-- 🛒 Built **ShopNest**, a full-stack e-commerce application
-- 🤖 Built an **AI Interviewer** app with frontend, backend, APIs and AI-based evaluation
-- 🌱 Currently improving my skills in **JavaScript, React, Django and backend development**
-- 🎯 Looking for opportunities as a **Fresher Full Stack / Frontend Developer**
-- 📍 Based in **Belagavi, India**
-
-</td>
-<td valign="middle" align="center" width="40%">
-
-<img src="./assets/developer.svg" alt="Developer working on a laptop" width="100%" />
-
-</td>
-</tr>
-</table>
+- ⚛️ Focused on Python, Django, Django REST Framework and React
+- 🛒 Built ShopNest, a full-stack e-commerce application
+- 🤖 Built an AI Interviewer app with frontend, backend, APIs and AI-based evaluation
+- 🌱 Currently improving my skills in JavaScript, React, Django and backend development
+- 🎯 Looking for opportunities as a Fresher Full Stack / Frontend Developer
+- 📍 Based in Belagavi, India
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠 Tech Stack
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,django,postgres,sqlite,mysql,git,github,vscode,postman&perline=10" alt="Tech stack" width="600" />
-  </a>
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,django,postgres,sqlite,mysql,git,github,vscode,postman"/>
+
 </p>
 
 ---
@@ -74,37 +68,32 @@ An AI-powered interview practice application that evaluates interview answers an
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prachi-Sarnobat&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" width="48%" />
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prachi-Sarnobat&theme=transparent"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi-Sarnobat&layout=compact&hide_border=true" alt="Top languages" width="48%" />
-
-</div>
-
-### 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Prachi-Sarnobat&hide_border=true" alt="GitHub streak" width="500" />
-
-</div>
+</p>
 
 ---
 
-### 🤝 Connect With Me
+### 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/prachi-sarnobat-648445374/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:prachisarnobatsarnobat@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<p>
+
+<a href="https://www.linkedin.com/in/prachi-sarnobat-648445374/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:prachisarnobatsarnobat@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/Prachi-Sarnobat">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
 </p>
 
-<div align="center">
+---
 
-### 💡 "Build. Learn. Improve. Repeat."
-
-</div>
+> **"Build. Learn. Improve. Repeat."**
