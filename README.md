@@ -1,78 +1,78 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Prachi Sarnobat</h1>
 
-Hi 👋, I'm Prachi Sarnobat
+<h3 align="center">Full Stack Developer • Django • React • REST APIs</h3>
 
-Full Stack Developer • Django • React • REST APIs
+<table>
+<tr>
+<td valign="top" width="60%">
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Prachi-Sarnobat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Prachi-Sarnobat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-</div>
+### 👩‍💻 About Me
 
-👩‍💻 About Me
+- 🚀 Full Stack Developer passionate about building practical web applications and REST APIs
+- ⚛️ Focused on **Python, Django, Django REST Framework and React**
+- 🛒 Built **ShopNest**, a full-stack e-commerce application
+- 🤖 Built an **AI Interviewer** app with frontend, backend, APIs and AI-based evaluation
+- 🌱 Currently improving my skills in **JavaScript, React, Django and backend development**
+- 🎯 Looking for opportunities as a **Fresher Full Stack / Frontend Developer**
+- 📍 Based in **Belagavi, India**
 
-💻 Full Stack Developer focused on Python, Django, Django REST Framework and React
+</td>
+<td valign="middle" align="center" width="40%">
 
-🚀 I enjoy building practical web applications and REST APIs
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding illustration" width="100%" />
 
-🛒 Built full-stack projects including ShopNest, an e-commerce application
+</td>
+</tr>
+</table>
 
-🤖 Built an AI Interviewer application with frontend, backend, APIs and AI-based evaluation
+---
 
-🌱 Currently improving my skills in JavaScript, React, Django and backend development
-
-🎯 Looking for opportunities as a Fresher Full Stack / Frontend Developer
-
-📍 Based in Belagavi, India
-
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,django,postgres,sqlite,mysql,git,github,vscode,postman&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,django,postgres,sqlite,mysql,git,github,vscode,postman&perline=15" />
   </a>
 </p>
 
-🚀 Featured Projects
+---
 
-🛍️ ShopNest — Full Stack E-Commerce
+### 🚀 Featured Projects
+
+#### 🛍️ ShopNest — Full Stack E-Commerce
 
 A full-stack e-commerce application built with React and Django REST Framework.
 
-Tech: React • Django • Django REST Framework • PostgreSQL • Tailwind CSS
+**Tech:** React • Django • Django REST Framework • PostgreSQL • Tailwind CSS
 
-🔐 Authentication and user features
+- 🔐 Authentication and user features
+- 🛒 Product browsing and cart functionality
+- 📦 Order management
+- 🔗 REST API integration
+- 🗄️ PostgreSQL database with Django ORM
 
-🛒 Product browsing and cart functionality
+🔗 **Live:** https://meek-daifuku-ff4caf.netlify.app/  
+🔗 **Code:** https://github.com/Prachi-Sarnobat/ShopNest-FullStack
 
-📦 Order management
-
-🔗 REST API integration
-
-🗄️ PostgreSQL database with Django ORM
-
-🔗 Live: https://meek-daifuku-ff4caf.netlify.app/
-🔗 Code: https://github.com/Prachi-Sarnobat/ShopNest-FullStack
-
-🤖 AI Interviewer
+#### 🤖 AI Interviewer
 
 An AI-powered interview practice application that evaluates interview answers and provides feedback.
 
-Tech: React • Django/API • AI Evaluation • REST APIs
+**Tech:** React • Django/API • AI Evaluation • REST APIs
 
-🎤 Interview question and answer flow
+- 🎤 Interview question and answer flow
+- 🧠 AI-based answer evaluation
+- 📊 Interview session tracking
+- 🔗 Backend API integration
 
-🧠 AI-based answer evaluation
+🔗 **Live:** https://interview-buddy.prachisarnobatsarnobat.workers.dev/  
+🔗 **Code:** https://github.com/Prachi-Sarnobat/interview-buddy
 
-📊 Interview session tracking
+---
 
-🔗 Backend API integration
-
-🔗 Live: https://interview-buddy.prachisarnobatsarnobat.workers.dev/
-🔗 Code: https://github.com/Prachi-Sarnobat/interview-buddy
-
-📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -82,7 +82,7 @@ Tech: React • Django/API • AI Evaluation • REST APIs
 
 </div>
 
-🔥 GitHub Streak
+### 🔥 GitHub Streak
 
 <div align="center">
 
@@ -90,7 +90,9 @@ Tech: React • Django/API • AI Evaluation • REST APIs
 
 </div>
 
-🤝 Connect With Me
+---
+
+### 🤝 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/prachi-sarnobat-648445374/" target="_blank">
@@ -103,6 +105,6 @@ Tech: React • Django/API • AI Evaluation • REST APIs
 
 <div align="center">
 
-💡 "Build. Learn. Improve. Repeat."
+### 💡 "Build. Learn. Improve. Repeat."
 
 </div>
