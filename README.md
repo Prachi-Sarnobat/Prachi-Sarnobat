@@ -4,8 +4,8 @@
 Full Stack Developer • Django • React • REST APIs
 </h3>
 
-<img align="right" alt="Coding" width="400"
-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<img align="right" alt="She Codes" width="400"
+src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif">
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Prachi-Sarnobat&label=Profile%20Views&color=0e75b6&style=flat"/>
